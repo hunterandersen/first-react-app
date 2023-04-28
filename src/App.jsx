@@ -5,7 +5,6 @@ class App extends Component {
   constructor(){
     super();
 
-    
     this.state = {
       text: "Hello",
       idList: ["111", "222", "333"],
